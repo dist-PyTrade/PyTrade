@@ -1,0 +1,2 @@
+# PyTrade
+PyTrade core
